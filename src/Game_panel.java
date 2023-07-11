@@ -2,20 +2,15 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.Random;
-import java.awt.MouseInfo;
-import javax.swing.Timer;
 import java.util.Arrays;
 import java.lang.Math;
 import java.lang.Thread;
 public class Game_panel extends JPanel {
-    Graphics graphics;
     Cookie cookie;
 
     JTextArea textArea;
 
-    MouseInfo mouseinfo;
 
-    Game game;
     int points = 0;
     Random random;
 

@@ -1,5 +1,4 @@
 import java.awt.*;
-import java.awt.image.ImageObserver;
 
 public class Cookie extends Rectangle {
 
