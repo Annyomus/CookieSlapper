@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CookieSlapper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CookieSlapper_jar</output-path>
+    <root id="archive" name="CookieSlapper.jar">
+      <element id="module-output" name="CookieSlapper" />
+    </root>
+  </artifact>
+</component>
